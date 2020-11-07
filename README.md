@@ -8,4 +8,6 @@ Ucze sie gita. Mam na imie: **Marlena**
 
 ## druga zmiana
 
-kolejna modyfikacja 
+kolejna modyfikacja
+
+zmiana x 
