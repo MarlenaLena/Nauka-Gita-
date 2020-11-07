@@ -10,4 +10,4 @@ Ucze sie gita. Mam na imie: **Marlena**
 
 kolejna modyfikacja
 
-zmiana x
+To jest modyfikacja naniesiona w przegladarce. 
