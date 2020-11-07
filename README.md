@@ -1,8 +1,8 @@
 ## Nauka Gita
 Ucze sie gita. Mam na imie: **Marlena**
 
-- a
-- text
+- 1
+- 2
 - 4
 - 5
 
@@ -10,4 +10,4 @@ Ucze sie gita. Mam na imie: **Marlena**
 
 kolejna modyfikacja
 
-zmiana x 
+zmiana x
