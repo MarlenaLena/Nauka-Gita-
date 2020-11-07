@@ -11,5 +11,3 @@ Ucze sie gita. Mam na imie: **Marlena**
 kolejna modyfikacja
 
 To jest modyfikacja naniesiona w przegladarce.
-
-file:///home/student/workspace/nauka_gita/surftocat.png
